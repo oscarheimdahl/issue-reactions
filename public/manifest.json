@@ -8,7 +8,9 @@
     {
       "matches": ["https://github.com/*/*/issues/*"],
       "js": ["index.js"],
-      "run_at": "document_end"
+      "run_at": "document_idle",
+      "type": "module",
+      "css": ["style.css"]
     }
   ]
 }

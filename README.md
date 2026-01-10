@@ -1,5 +1,7 @@
-# Privacy Policy
+# Github Issue Reactions _Revival_
 
-This extension does not collect, store, transmit, or share any personal data.
-It only reads the content of GitHub issue pages locally in the browser and injects additional UI elements.
-No data leaves the user’s device.
+Shows an overview of the reactions on comments in Github Issues. To more easily find relevant comments.
+
+Functional clone of the lovely [Github Issue Reactions](https://github.com/Norfeldt/github-issue-reactions-browser-extension) extension which is no longer maintained.
+
+Not a fork, original implementation.
